@@ -15,7 +15,7 @@ int main()
    
     string s = "SARVU";
     string last = "rahul";
-    int size = s.size(5); 
+    int size = s.size(); 
 
        //strlen() does not take constant time to find length of string
      
